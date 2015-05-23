@@ -42,3 +42,4 @@ Thumbs.db
 # secret folders #
 ##################
 node_modules
+server/data
